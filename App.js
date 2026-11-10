@@ -65,7 +65,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.titulo}>AgroMosquera S.A.S.</Text>
+      <Text style={styles.titulo}>PedidosAgroJeJe</Text>
       <Text style={styles.subtitulo}>Sistema de Registro de Pedidos</Text>
 
       <Text style={styles.etiqueta}>Cliente</Text>
